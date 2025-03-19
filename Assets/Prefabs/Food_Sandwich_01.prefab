@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 8669891968758610920}
   - component: {fileID: 6302281892765234715}
   - component: {fileID: 2630147726274597587}
+  - component: {fileID: 3167103959285750390}
   m_Layer: 0
   m_Name: Food_Sandwich_01
   m_TagString: Untagged
@@ -160,3 +161,15 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!114 &3167103959285750390
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9096494612403141958}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86745126ad3d1484a9b262fcf0a14252, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
